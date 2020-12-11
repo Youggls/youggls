@@ -4,6 +4,8 @@
 
 ![Youggls's top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Youggls)
 
+[![Youggls's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=FallenLeaves)](https://github.com/anuraghazra/github-readme-stats)
+
 - 🔭 I’m currently working on NLP and KG.
 - 🌱 I’m currently learning Deep Learning.
 - 👯 I’m looking to collaborate on ...
