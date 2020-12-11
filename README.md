@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![Youggls's github stats](https://github-readme-stats.vercel.app/api?username=Youggls&show_icons=true)
+![Youggls's github stats](https://github-readme-stats.vercel.app/api?username=Youggls&show_icons=true&theme=Gradient)
 
 ![Youggls's top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Youggls)
 
