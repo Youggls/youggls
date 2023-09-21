@@ -8,7 +8,8 @@
 
 ## Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=Youggls/Compiler&type=Date)](https://star-history.com/#Youggls/Compiler&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=Youggls/Compiler,Youggls/ACROSS-ACL23&type=Date)](https://star-history.com/#Youggls/Compiler&Youggls/ACROSS-ACL23&Date)
+
 
 
 - 🔭 I’m currently working on NLP and KG.
